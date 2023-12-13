@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>I am testion{{ name }}</h1>
+    <h1>I am testing{{ name }}</h1>
   <slot>Empty slot</slot>
   </div>
   
